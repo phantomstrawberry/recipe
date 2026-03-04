@@ -1,0 +1,31 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(156, 48, 34);
+    color: white;
+    padding: 32px;
+    text-align: center;
+}
+
+ol, ul{
+    text-align: left;
+}
+
+.no-bulletpoint{
+    text-align: inherit;
+    list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+li{
+    margin-bottom: 16px;
+}
